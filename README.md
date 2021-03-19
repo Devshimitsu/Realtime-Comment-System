@@ -45,7 +45,7 @@ npm start
 :: Workflow ::
 </h3>
 <p align="center">
-<img src="https://i.imgur.com/940fYcX_d.webp?maxwidth=1520&fidelity=grand"/>
+<img src="https://i.imgur.com/HlnajOB_d.webp?maxwidth=1520&fidelity=grand"/>
 </p>
 
 
