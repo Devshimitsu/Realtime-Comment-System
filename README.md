@@ -19,7 +19,7 @@
 
 - Just, Clone this repository -
 ```
-$ git clone https://github.com/Devshimitsu/Node_Js_Weather_App.git
+$ git clone https://github.com/Devshimitsu/Realtime-Comment-System.git
 ```
 
 - Change to cloned directory  -
