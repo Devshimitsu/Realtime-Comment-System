@@ -7,7 +7,7 @@
     "dev": "nodemon server"
   },
   "keywords": [],
-  "author": "",
+  "author": "Devshimitsu",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
